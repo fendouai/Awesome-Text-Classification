@@ -20,6 +20,12 @@ Convolutional Neural Network for Text Classification in Tensorflow
 
 https://github.com/dennybritz/cnn-text-classification-tf
 
+### textClassifier
+
+Text classifier for Hierarchical Attention Networks for Document Classification
+
+https://github.com/richliao/textClassifier
+
 ### Crepe
 
 Character-level Convolutional Networks for Text Classification
@@ -49,6 +55,26 @@ https://github.com/fatiherikli/klassify
 Text classification using a convolutional neural network.
 
 https://github.com/harvardnlp/sent-conv-torch
+
+## Chinese
+
+###  cnn-text-classification-tf-chinese
+
+CNN for Chinese Text Classification in Tensorflow
+
+https://github.com/indiejoseph/cnn-text-classification-tf-chinese
+
+###  text-classification-cnn-rnn
+
+CNN-RNN中文文本分类，基于tensorflow
+
+https://github.com/gaussic/text-classification-cnn-rnn
+
+### Chinese-Text-Classification
+
+Chinese-Text-Classification，Tensorflow CNN（卷积神经网络）实现的中文文本分类。QQ群：522785813，微信群二维码：http://www.tensorflownews.com/
+
+https://github.com/fendouai/Chinese-Text-Classification
 
 ## Papers
 
